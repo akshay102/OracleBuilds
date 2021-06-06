@@ -1,0 +1,3 @@
+The number of unique customerId for each contractId:
+2346 : 2
+2345 : 3

@@ -1,0 +1,4 @@
+The average buildduration for each geozone:
+eu_west:4222.0
+us_west:2216.0
+us_east:3445.0

@@ -1,0 +1,4 @@
+The number of unique customerId for each Geo Zone:
+eu_west : 2
+us_west : 2
+us_east : 1
